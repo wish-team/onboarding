@@ -22,7 +22,7 @@ journey
 
 ```
 
-### Technical Checklist
+## Technical Checklist
 
 - [ ] cloudflare - how it works
 - [ ] netlify - how it works
@@ -34,7 +34,7 @@ journey
 - [ ] github fundamental course 
 
 
-### To Watch Video
+## To Watch Video
 
  - [ ] [Introduction to Git and Github](https://youtu.be/ulQA5tjJark)
  - [ ] [Github Professional](https://youtu.be/Uszj_k0DGsg)
@@ -44,10 +44,10 @@ journey
  - [ ] [API Testing](https://youtu.be/VywxIQ2ZXw4)
 
 
-### Documentations
+## Documentations
 
 
-### Well-Deserved Product Manager for Wish Work
+### Product Management Skills from Wish Work Perspective
 
 ```mermaid
 
