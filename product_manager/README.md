@@ -47,5 +47,15 @@ journey
 ### Documentations
 
 
+### Well-Deserved Product Manager for Wish Work
+
+```mermaid
+
+pie title Pets adopted by volunteers
+    "Stakeholder Management" : 50
+    "Technical Skills" : 15
+    "Pipeline Design" : 15
+    "Familiarity with Modern Development Tools" : 20
+```
 
 `Last Edit : 30 May` 
