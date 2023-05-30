@@ -12,7 +12,7 @@ journey
       Do work: 5: Product Manager
     section C
       Partnership Contract Review: 5: Product Manager, HR
-      Proposal Review: Product Manager, HR, Marketing
+      Proposal Review: 5: Product Manager, HR, Marketing
       Vision of Partnerships: 5: Product Manager, CEO
     section QA
       Technical Dev Knowledge Check: 5: Tech Lead, CEO
@@ -30,4 +30,16 @@ journey
 - [ ] golden crown admin panel
 - [ ] github fundamental course 
 
-`Last Edit : 18 May` 
+
+### To Watch Video
+
+ - [ ] [Introduction to Git and Github](https://youtu.be/ulQA5tjJark)
+ - [ ] [Github Professional](https://youtu.be/Uszj_k0DGsg)
+ - [ ] [Basecamp Introduction](https://youtu.be/rY9z7Bfimr4)
+ - [ ] [Introduction to Figma](https://youtu.be/o1nCmiW6auE)
+
+### Documentations
+
+
+
+`Last Edit : 30 May` 
