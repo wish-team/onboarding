@@ -10,13 +10,13 @@ journey
       Speak one-to-one: 5: Product Manager, Team
       Getting familiar with PR: 5: Product Manager, Tech Lead, Design Head
       Environment Principles: 5: Product Manager
-    section C
+    section Wish Work
       Partnership Contract Review: 5: Product Manager, HR
       Proposal Review: 5: Product Manager, HR, Marketing
       Vision of Partnerships: 5: Product Manager, CEO
       Vision of the Wish Work :5: Product Manager, HR, CEO
       Developing Skills of the Product Manager: 5: Product Manager, HR
-    section QA
+    section Quality Check
       Technical Dev Knowledge Check: 5: Tech Lead, CEO
       Technical and Practical Arch Knowledge Check: 5: CEO, Product Manager
 
