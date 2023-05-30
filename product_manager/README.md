@@ -51,7 +51,7 @@ journey
 
 ```mermaid
 
-pie title Pets adopted by volunteers
+pie title Skills of a Top-Notch Product Manager
     "Stakeholder Management" : 50
     "Technical Skills" : 15
     "Pipeline Design" : 15
