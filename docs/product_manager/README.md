@@ -1,3 +1,5 @@
+@import "src="https://unpkg.com/mermaid@8.14.0/dist/mermaid.min.js"
+
 ## Overview
 
 
