@@ -2,7 +2,7 @@
 </script>
 
 ## Overview
-
+This document has been written for on boarding process of Product Manager in Wish Work.
 
 
 <div class="mermaid">
