@@ -1,10 +1,11 @@
-@import "src="https://unpkg.com/mermaid@8.14.0/dist/mermaid.min.js"
+<script src="https://unpkg.com/mermaid@8.14.0/dist/mermaid.min.js">
+</script>
 
 ## Overview
 
 
-```mermaid!
 
+<div class="mermaid">
 journey
 
     title On Boarding Journey
@@ -21,8 +22,7 @@ journey
     section Quality Check
       Technical Dev Knowledge Check: 5: Tech Lead, CEO
       Technical and Practical Arch Knowledge Check: 5: CEO, Product Manager
-
-```
+</div>
 
 ## Technical Checklist
 
