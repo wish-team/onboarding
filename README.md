@@ -1,5 +1,2 @@
 # onboarding
 
-### sqlam
-## 
-> ssss
