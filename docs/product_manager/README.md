@@ -51,13 +51,13 @@ journey
 
 ### Product Management Skills from Wish Work Perspective
 
-```mermaid
+<div class="mermaid">
 
 pie title Skills of a Top-Notch Product Manager
     "Stakeholder Management" : 50
     "Technical Skills" : 15
     "Pipeline Design" : 15
     "Familiarity with Modern Development Tools" : 20
-```
+</div>
 
 `Last Edit : 30 May` 
