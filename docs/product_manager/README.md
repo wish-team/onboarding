@@ -60,4 +60,8 @@ pie title Skills of a Top-Notch Product Manager
     "Familiarity with Modern Development Tools" : 20
 </div>
 
+## Seniority
+
+![product management seniority](./IMG_1651.jpg)
+
 `Last Edit : 30 May` 
