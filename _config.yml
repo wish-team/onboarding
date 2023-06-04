@@ -2,7 +2,7 @@ lsi: false
 safe: true
 incremental: false
 highlighter: rouge
-remote_theme: cotes2020/jekyll-theme-chirpy/
+remote_theme: https://github.com/cotes2020/jekyll-theme-chirpy/https://github.com/cotes2020/jekyll-theme-chirpy/s
 plugins:
 - jekyll-spaceship
 - jekyll-remote-theme # add this line to the plugins list if you already have onehighlighter: rouge
